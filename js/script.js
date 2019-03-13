@@ -1,3 +1,9 @@
+Highcharts.setOptions({
+    lang: {
+        numericSymbols: [' tis.', 'M', 'G', 'T', 'P', 'E'] //otherwise by default ['k', 'M', 'G', 'T', 'P', 'E']
+    }
+});
+
 var blocked_hrs = {
     "7": 0.0114664536,
     "8": 0.1228674601,

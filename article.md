@@ -14,7 +14,7 @@ Oficiální cesta je ale poměrně trnitá: uživatel může nechat svého mobil
 
 Podle ÚOOÚ má uživatel právo se volajícího ptát, kde získal jeho kontakt, případně pak požádat o vymazání z databáze. Žádost je ale nutné poslat písemně, což není možné, pokud se volající odmítne představit. A teprve až když telemarketér zaslané žádosti nevyhoví, může se občan obrátit na ÚOOÚ.
 
-## Radši zablokovat než hlásit úřadům
+## Radši zablokovat než hlásit
 
 Že takovou cestu využije jen zlomek lidí, naznačují desítky stížností na úřad ve srovnání s počtem hovorů, které blokují aplikace pro chytré telefony. „Jde asi o 50 000 telefonátů měsíčně (1700 denně),“ napsal serveru iROZHLAS.cz Zdeněk Valach, který provozuje aplikaci [Nevolejte.cz](http://nevolejte.cz/). Podle něj je reálné číslo ale spíše dvojnásobné: zpětné hlášení o zablokovaných hovorech posílají jen někteří uživatelé aplikace pro systém Android, telefony od Apple tuhle informaci pak vůbec neposkytují.
 
@@ -34,7 +34,7 @@ Podobnou službu na identifikaci neznámých čísel a blokování hovorů [Zved
 
 V žádosti o zablokování čísla v aplikaci Nevolejte uživatelé uvádí i důvod. Nejčastěji jsou to obecné pojmy jako _telemarketing_, _pojištění_ nebo _investice_, často ale zazní i jména konkrétních společností: lidé si tak stěžují na tuzemské mobilní operátory nebo na finanční nabídky od HomeCreditu, Providentu, mBank či České spořitelny.
 
-## Lidé se mohou odhlásit, tvrdí firmy
+## Mají říct, že o nabídky nestojí
 
 „Oslovujeme pouze zákazníky a zájemce, kteří nám dali souhlasy,“ odmítá pochybení Michal Dyttert z úvěrové společnosti Provident. Naopak kritizuje aplikace, které hovory blokují: „Nedostatečná zpětná vazba poškozuje společnosti z několika pohledů. Zvyšuje jim to náklady, o hovor se totiž budou pokoušet i nadále, jelikož nemají informace o tom, že je zákazník zablokoval (na call centru fungují automaty). U zákazníků to také podporuje neodpovědné chování – místo zrušení svého souhlasu u poskytovatele si jenom zablokují jeho číslo. Neposledně podobná hlášení bez udání jasného důvodu poškozují reputaci dané firmy,“ vysvětluje.
 
