@@ -8,7 +8,7 @@ libraries: ['highcharts'] #jquery, d3, d3v5, d3csv, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
 
-„Jde v průměru o 20–30 stížností měsíčně,“ napsal Českému rozhlasu ředitel odboru konzultačních agend na Úřadu pro ochranu osobních údajů (ÚOOÚ) Jiří Žůrek na dotaz, kolik stížností na nevyžádané nabídky po telefonu úřad řeší. Podle něj jde často naštvané e-maily, které neobsahují dostatek informací, aby se úřad mohl věcí zabývat. Ten proto letos vydal [příručku](https://www.uoou.cz/jak%2Dse%2Dnbsp%2Dbranit%2Dnevyzadanemu%2Dtelemarketingu/d-33199), která vysvětluje, jak se mohou lidé telemarketingu bránit. 
+„Jde v průměru o 20–30 stížností měsíčně,“ napsal serveru iROZHLAS.cz ředitel odboru konzultačních agend na Úřadu pro ochranu osobních údajů (ÚOOÚ) Jiří Žůrek na dotaz, kolik stížností na nevyžádané nabídky po telefonu úřad řeší. Podle něj jde často naštvané e-maily, které neobsahují dostatek informací, aby se úřad mohl věcí zabývat. Ten proto letos vydal [příručku](https://www.uoou.cz/jak%2Dse%2Dnbsp%2Dbranit%2Dnevyzadanemu%2Dtelemarketingu/d-33199), která vysvětluje, jak se mohou lidé telemarketingu bránit. 
 
 Oficiální cesta je ale poměrně trnitá: uživatel může nechat svého mobilního operátora, aby u jeho čísla ve [veřejném telefonním seznamu](http://www.1188.cz/) uvedl, že si nepřeje být kontaktován s obchodními nabídkami. V takovou chvíli se ale na internetu objeví kromě telefonního čísla i jména a adresa, což nemusí řadě lidí vyhovovat. Navíc zákaz obchodních volání pak platí pouze pro ty prodejce, kteří číslo získali právě z tohoto seznamu – řada call center to obchází například tvrzením, že číslo „náhodně vygenerovali“.
 
