@@ -26,7 +26,7 @@ Podle Valacha měla aplikace vloni asi 145 tisíc uživatelů a ti poslali přes
 <div id="blocked_hrs"></div>
 </wide>
 
-Podobnou službu na identifikaci neznámých čísel a blokování hovorů [Zvednout to?](https://itunes.apple.com/app/apple-store/id1175824652?mt=8) provozuje i Jan Čislinský. „Máme za rok 2018 přes 3 000 hlášení. Průměrně tedy 8 hlášení/den, ale byly dny, kdy bylo nahlášeno přes 80 čísel za jeden jediný den,“ uvádí. Další podobnou službou byla v minulosti i aplikace od společnosti Avast, firma její provoz ale před časem ukončila, údajně pro malý zájem.
+Podobnou službu na identifikaci neznámých čísel a blokování hovorů [Zvednout to?](https://itunes.apple.com/app/apple-store/id1175824652?mt=8) provozuje i Jan Čislinský. „Máme za rok 2018 přes 3000 hlášení. Průměrně tedy 8 hlášení/den, ale byly dny, kdy bylo nahlášeno přes 80 čísel za jeden jediný den,“ uvádí. Další podobnou službou byla v minulosti i aplikace od společnosti Avast, firma její provoz ale před časem ukončila, údajně pro malý zájem.
 
 <wide>
 <div id="blocked_req"></div>
